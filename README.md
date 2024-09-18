@@ -1,3 +1,3 @@
 # Assignment
-Peer graded assignment of IBM tools for data science course
-Used jupyter notebook for this assignment
+Peer graded assignment of IBM tools for data science course,
+used jupyter notebook for this assignment
